@@ -10,7 +10,7 @@
     "multiplicacion",
     "tablas"
   ],
-  "author": "JOAN EMMANUEL MONTOYA LOPEZ",
+  "author": "Bryan Guadalupe de los Santos Reyes",
   "license": "ISC",
   "dependencies": {
     "yargs": "^16.0.3"
